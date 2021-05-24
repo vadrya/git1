@@ -1,0 +1,7 @@
+.idea/
+Thumbs.db
+desktop.ini
+.DS_Store
+
+log/*
+!/log/.htaccess #исключение
